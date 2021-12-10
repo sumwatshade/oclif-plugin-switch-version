@@ -6,7 +6,7 @@
   "bugs": "https://github.com/sumwatshade/oclif-plugin-switch-version/issues",
   "dependencies": {
     "@oclif/command": "^1",
-    "@oclif/config": "^1",
+    "@oclif/config": "^1.17.1",
     "tslib": "^1"
   },
   "devDependencies": {
