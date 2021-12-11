@@ -5,7 +5,7 @@
   "author": "lshadler @sumwatshade",
   "bugs": "https://github.com/sumwatshade/oclif-plugin-switch-version/issues",
   "dependencies": {
-    "@oclif/command": "^1",
+    "@oclif/command": "^1.8.3",
     "@oclif/config": "^1",
     "tslib": "^1"
   },
